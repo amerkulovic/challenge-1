@@ -13,4 +13,4 @@ This project showcases the HTML skills I have acquired. Each tag in the HTML is 
 
 ## Link
 
-[Horiseon](https://future-finder.herokuapp.com/)
+[Horiseon](https://amerkulovic.github.io/challenge-1/)
